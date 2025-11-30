@@ -63,8 +63,8 @@ Includes theoretical modeling, particle behavior, mathematical simulation, and v
 ---
 ### 🎮 6. Networked Connect 4 Game
 
-A client–server implementation of Connect 4 built for my CS2 final.
-Features real-time gameplay between two players over TCP sockets, server-side game state management, turn handling, and win/draw detection.
+A client–server implementation of Connect 4 built from my CS2 final. Being from my CS2 Final, that does make it a little sloppy. 
+Regardless, it still features real-time gameplay between two players over TCP sockets, server-side game state management, turn handling, and win/draw detection.
 Tech: Java (Socket Programming, OOP)
 Highlights: Networking fundamentals, client/server architecture, game logic, concurrency concepts, practical systems programming
 
