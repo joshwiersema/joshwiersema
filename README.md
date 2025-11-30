@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Josh Wiersema  
 ### Computer Science Student 
 
-I'm a CS student, athlete, and freelance developer who loves building real, practical software—from full-stack apps for local businesses to algorithm-heavy C++ projects and machine learning experiments.  
+I'm a CS student, athlete, and freelance developer who loves building real, practical software. From full-stack apps for local businesses to algorithm-heavy C++ projects and machine learning experiments.  
 I use GitHub to showcase clean, well-structured projects that reflect what I’m learning and what I can build.
 
 ---
