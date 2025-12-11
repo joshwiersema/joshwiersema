@@ -9,13 +9,21 @@ I use GitHub to showcase clean, well-structured projects that reflect what I’m
 
 ## 🚀 Featured Projects (Pinned)
 
-### 🧠 1. Machine Learning Project  
-This project explores machine learning techniques using two datasets. The Linear Regression notebook loads and cleans Auto.csv, performs exploratory analysis, trains a regression model, visualizes MPG relationships, and evaluates performance with standard error metrics. The Tree-Based Modeling notebook uses forestfires.csv to train ensemble models (bagging, boosting, random forest), measure accuracy, and show how tree-based methods capture nonlinear patterns in data.
+### 🎮 **CliffWalk Q-Learning vs SARSA**
 
-**Tech:** Python, Pandas, NumPy, Matplotlib, Scikit-learn  
-**Highlights:** Regression modeling, plotting
+📌 A reinforcement learning comparison project built with Python and Gymnasium.
+
+This project implements **tabular Q-Learning** and **SARSA** on the `CliffWalking-v0` environment to explore differences between off-policy and on-policy learning. It includes:
+
+- Training both agents over 1000 episodes  
+- Tracking and plotting key metrics (reward, cliff falls, steps)  
+- Real-Time GUI Visualization of Agent success/ ASCII policy visualization of learned strategies  
+- Clear demonstration of how exploration and update rules shape behavior
+
+📊 *Q-Learning favors higher-reward but riskier strategies, while SARSA learns safer paths — a great showcase of RL fundamentals and practical empirical evaluation.*
 
 🔗 **Repo:** *Pinned below*
+
 
 ---
 
