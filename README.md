@@ -52,11 +52,11 @@ Demonstrates algorithmic understanding, tree structures, recursion, and efficien
 
 ---
 
-### 🌌 5. Big Bang Simulation  
-A physics-inspired simulation of early-universe expansion based on your custom unified field theory concepts.  
-Includes theoretical modeling, particle behavior, mathematical simulation, and visualization components.  
-**Tech:** Python (NumPy, Matplotlib)  
-**Highlights:** Simulation design, math modeling, data visualization, creativity + technical depth
+### 🧠 5. Machine Learning Project  
+This project explores machine learning techniques using two datasets. The Linear Regression notebook loads and cleans Auto.csv, performs exploratory analysis, trains a regression model, visualizes MPG relationships, and evaluates performance with standard error metrics. The Tree-Based Modeling notebook uses forestfires.csv to train ensemble models (bagging, boosting, random forest), measure accuracy, and show how tree-based methods capture nonlinear patterns in data.
+
+**Tech:** Python, Pandas, NumPy, Matplotlib, Scikit-learn  
+**Highlights:** Regression modeling, plotting
 
 🔗 **Repo:** *Pinned below*
 
