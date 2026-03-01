@@ -30,7 +30,7 @@ This project implements **tabular Q-Learning** and **SARSA** on the `CliffWalkin
 ### ♠️ 2. BlackJack Game  
 Blackjack — A fully playable Blackjack game built without frameworks. The backend is a custom multithreaded Python HTTP server handling session state, betting logic, and game flow through a REST API.
 The frontend is vanilla HTML, CSS, and JavaScript. 
-**Tech:** Python, C++
+**Tech:** Python, HTML, JavaScript
 **Highlights:** OOP, game state management, randomness, data structures
 
 🔗 **Repo:** *Pinned below*
