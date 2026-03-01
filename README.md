@@ -28,12 +28,13 @@ This project implements **tabular Q-Learning** and **SARSA** on the `CliffWalkin
 ---
 
 ### ♠️ 2. BlackJack Game  
-A full Blackjack implementation demonstrating object-oriented programming, game logic, and clean class design.  
-Includes player actions, card handling, win/loss conditions, and a properly structured program flow.  
-**Tech:** C++ 
+Blackjack — A fully playable Blackjack game built without frameworks. The backend is a custom multithreaded Python HTTP server handling session state, betting logic, and game flow through a REST API.
+The frontend is vanilla HTML, CSS, and JavaScript. 
+**Tech:** Python, C++
 **Highlights:** OOP, game state management, randomness, data structures
 
 🔗 **Repo:** *Pinned below*
+Live at: uiblackjack.onrender.com.
 
 ---
 
