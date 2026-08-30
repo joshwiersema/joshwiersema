@@ -118,14 +118,14 @@ This project explores machine learning techniques using two datasets. The Linear
 ## 🛠️ Tech Stack
 
 **Languages:**
-Python • Java • C++ • JavaScript • HTML/CSS • Anything, to be honest
+Python • Java • C++ • JavaScript •
 
 **Tools & Frameworks:**
-Full Claude Suite, multiple Claude Code projects
+Full Claude Suite/ Codex, multiple Claude Code projects
 Git/GitHub
 React (basic)
-NumPy, Pandas, scikit-learn, Matplotlib
-Linux / Ubuntu / Kali, VS Code, PyCharm, CLion
+TensorFlow, Pytorch, NumPy, Pandas, scikit-learn, Matplotlib
+Linux / Ubuntu / Kali, VS Code, PyCharm, CLion. Cursor
 
 ## 📫 Contact Me
 
