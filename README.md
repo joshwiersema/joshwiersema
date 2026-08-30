@@ -104,7 +104,7 @@ Demonstrates algorithmic understanding, tree structures, recursion, and efficien
 
 ---
 
-### 🧠 Machine Learning Project
+### 🧠 Excess Machine Learning Projects
 
 This project explores machine learning techniques using two datasets. The Linear Regression notebook loads and cleans Auto.csv, performs exploratory analysis, trains a regression model, visualizes MPG relationships, and evaluates performance with standard error metrics. The Tree-Based Modeling notebook uses forestfires.csv to train ensemble models (bagging, boosting, random forest), measure accuracy, and show how tree-based methods capture nonlinear patterns in data.
 
