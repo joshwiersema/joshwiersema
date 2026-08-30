@@ -11,7 +11,7 @@ I use GitHub to showcase clean, well-structured projects that reflect what I'm l
 
 ## 🚀 Featured Projects (Pinned)
 
-### 🤖 JARVIS 3  
+### 🤖 JARVIS v3  
 
 📌 A voice-first AI desktop presence for Windows, built with Tauri v2, React/TypeScript, and Python FastAPI.
 
