@@ -11,7 +11,7 @@ I use GitHub to showcase clean, well-structured projects that reflect what I'm l
 
 ## 🚀 Featured Projects (Pinned)
 
-### 🤖 JARVIS 3
+### 🤖 JARVIS 3  
 
 📌 A voice-first AI desktop presence for Windows, built with Tauri v2, React/TypeScript, and Python FastAPI.
 
@@ -29,7 +29,7 @@ Jarvis 3 talks back, remembers what you tell him, and writes his own abilities w
 *This one took about four months and a lot of back-and-forth — I went through four different Claude Opus models over the life of the project plus Claude Fable 5, and ran Codex alongside as a second set of eyes for code review. It's the project that pushed me hardest on architecture decisions I actually had to defend, not just accept.*
 
 🔗 Repo: Pinned below
-
+Project Display: https://joshwiersema.github.io/Jarvisv3/ 
 ---
 
 ### 🖥️ Render Fault Detector (Image Corruption Model)
@@ -47,6 +47,7 @@ Built end-to-end with Claude Opus 5, run through the Claude Code harness: a labe
 📊 A complete applied-ML arc — problem framing, data strategy, model, evaluation, and communication — not just a training script.
 
 🔗 Repo: Pinned below
+Project Display: https://joshwiersema.github.io/Image-Corruption-Model/ 
 
 ---
 
