@@ -71,6 +71,18 @@ Installers: <https://github.com/joshwiersema/RiscVSim-Editor/releases>
 
 ---
 
+### ⚙️ AsyncFIFO (Dual-Clock FIFO in Verilog)
+📌 A small, readable asynchronous FIFO that moves data safely between two clocks that have nothing to do with each other.
+
+Written in plain Verilog-2001 and simulated with Icarus Verilog. Two files and no frameworks: the FIFO module and a self-checking testbench. It includes:
+
+Gray-code read and write pointers, passed across the clock boundary through two-flop synchronizers so the other side never sees a half-updated value
+Full and empty flags that stay correct across the crossing (they can be a little conservative, but never wrong)
+Parameterized data width and depth, defaulting to 8-bit data and 16 entries
+A testbench that runs the write and read sides on two different clock periods, randomly stalls and bursts each side, forces the full and empty corner cases, and checks every value comes out exactly once and in order
+
+📊 A focused digital-design exercise in clock-domain crossing, the problem behind every real FIFO that sits between two clock domains.
+
 
 ### 🎮 CliffWalk Q-Learning vs SARSA
 *(Class Project: NO AI USED)*
