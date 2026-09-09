@@ -83,6 +83,8 @@ A testbench that runs the write and read sides on two different clock periods, r
 
 📊 A focused digital-design exercise in clock-domain crossing, the problem behind every real FIFO that sits between two clock domains.
 
+--- 
+
 
 ### 🎮 CliffWalk Q-Learning vs SARSA
 *(Class Project: NO AI USED)*
